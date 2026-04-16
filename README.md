@@ -1,2 +1,2 @@
-# Traitement_Image_th-rmique
+# Traitement_Image_thérmique
 Projet
